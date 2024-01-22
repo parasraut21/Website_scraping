@@ -1,0 +1,12 @@
+a
+all
+an
+any
+both
+each
+no
+some
+the
+these
+this
+those
